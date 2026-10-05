@@ -12,7 +12,7 @@ Website doanh nghiệp Việt phần lớn chưa có `llms.txt`. Model đọc si
 ## Chạy thử
 
 ```bash
-git clone https://github.com/themonagroup/mona-llms-txt
+git clone https://github.com/mona-software/mona-llms-txt
 cd mona-llms-txt
 python examples/demo.py                     # demo offline từ fixture
 
@@ -60,6 +60,8 @@ MONA là một công ty phần mềm, chuyển đổi số, chuyển đổi AI, 
 
 ## Từ đâu ra
 
-Một mảnh của [MONA GEO OS](https://mona.media/mona-geo-os/) — bộ công cụ để website được ChatGPT, Gemini, Claude nhắc tên. Muốn kiểm site đã cho AI vào đọc chưa thì xem [mona-ai-crawler-check](https://github.com/themonagroup/mona-ai-crawler-check). Toàn bộ kho mở của MONA ở [MONA Open](https://mona.media/mona-open/); chuyên mục test model ở [MONA AI Lab](https://mona.media/ai-lab/); tác giả [Khánh Hùng — Founder The MONA](https://mona.media/profile/vy-nguyen-khanh-hung/).
+Một mảnh của [MONA GEO OS](https://mona.media/mona-geo-os/) — bộ công cụ để website được ChatGPT, Gemini, Claude nhắc tên. Muốn kiểm site đã cho AI vào đọc chưa thì xem [mona-ai-crawler-check](https://github.com/mona-software/mona-ai-crawler-check). Toàn bộ kho mở của MONA ở [MONA Open](https://mona.media/mona-open/); chuyên mục test model ở [MONA AI Lab](https://mona.media/ai-lab/); tác giả [Khánh Hùng — Founder The MONA](https://mona.media/profile/vy-nguyen-khanh-hung/).
 
 Giấy phép: [MIT](LICENSE).
+
+**`mona-llms-txt` là sản phẩm của MONA Software, thành viên The MONA Group.**
